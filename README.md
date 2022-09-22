@@ -4,21 +4,21 @@ Homework for Full Stack Open 2022 (https://fullstackopen.com/zh/) using React
 
 ## Preview
 
-### CourseInfo
+### 🏫CourseInfo
 
 This application shows the structure of the course. This is the initial practice on React components.
 
 <img width="586" alt="image" src="https://user-images.githubusercontent.com/97832811/191638934-2e180ccd-5099-4e11-98ca-a65f5dfad0ca.png">
 
 
-### Unicafe
+### ☕️Unicafe
 
 This application collects customer feedbacks for a cafe company. It can display the total number of collected feedback for each category.
 
 <img width="306" alt="image" src="https://user-images.githubusercontent.com/97832811/191638827-5a70a0af-80a5-405a-b823-00b28344424a.png">
 
 
-### Anecdotes
+### ✏️Anecdotes
 
 This application is able to :
 
@@ -31,7 +31,7 @@ display the anecdote with the largest number of votes;
 <img width="436" alt="image" src="https://user-images.githubusercontent.com/97832811/191638657-9da0657a-dbe0-4c2a-8211-51572444d978.png">
 
 
-### Phonebook
+### 📞Phonebook
 
 You can add, delete, search for and change a person's information from the phonebook.
 
@@ -43,7 +43,7 @@ You can add, delete, search for and change a person's information from the phone
 
 <img width="914" alt="image" src="https://user-images.githubusercontent.com/97832811/191639666-7024a2b6-cd06-4750-8ccf-cf99d2a52602.png">
 
-### Countries
+### ✈️Countries
 
 An application in which one can look at data of various countries.
 
